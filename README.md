@@ -1,3 +1,5 @@
+[![Mark stale issues and pull requests](https://github.com/julesxxl/Tests/actions/workflows/stale.yml/badge.svg)](https://github.com/julesxxl/Tests/actions/workflows/stale.yml)
+
 # Tests
 
 Je m'amuse à faire du git..
